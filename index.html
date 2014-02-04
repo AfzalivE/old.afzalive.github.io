@@ -1,6 +1,9 @@
 <head>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/vector-fonts.css">
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700">
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700">
+    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Patua+One:300,400,500,700">
     <script src="js/script.js"></script>
     <title>Afzal's home page</title>
 </head>
@@ -9,13 +12,13 @@
     <div class="container">
         <!-- header stuff like nav -->
         <header class="row">
-            <h1 class="name">Afzal Najam</h1>
+            <h1 class="name"><a href="index.html">Afzal Najam</a></h1>
             <div class="links">
                 <ul>
-                    <li class="twitter"><a href="https://www.twitter.com/AfzalivE" target="_blank" class="icon-twitter"></a></li>
-                    <li class="plus"><a href="https://plus.google.com/+AfzalNajam" target="_blank" class="icon-googleplus"></a></li>
-                    <li class="github"><a href="https://www.github.com/AfzalivE" target="_blank" class="icon-github"></a></li>
-                    <li class="linkedin"><a href="https://www.linkedin.com/in/AfzalivE" target="_blank" class="icon-linkedin"></a></li>
+                    <li><a href="https://www.twitter.com/AfzalivE" target="_blank" class="icon-twitter"></a></li>
+                    <li><a href="https://plus.google.com/+AfzalNajam" target="_blank" class="icon-googleplus"></a></li>
+                    <li><a href="https://www.github.com/AfzalivE" target="_blank" class="icon-github"></a></li>
+                    <li><a href="https://www.linkedin.com/in/AfzalivE" target="_blank" class="icon-linkedin"></a></li>
                 </ul>
             </div>
         </header>
@@ -26,6 +29,99 @@
                 <span class="icon-user"></span>
                 <span class="title">My Profile</span>
             </h2>
+
+            <div class="item-content clearfix">
+                <div class="col405 clearfix fl-left" style="margin-left: 0%;">
+                    <div class="profile-img"><img src="images/profile-img.jpg" alt=""></div>
+                    <div class="profile-info">
+                        <h3>I am a Software Developer</h3>
+                        <p>I am currently in the final year of Computer Science at McMaster University.
+                        <p>I like working with Android applications and web frameworks like Ember.js and Laravel.</p>
+                        <p>In my spare time, I like to read fiction and play basketball and squash.</p>
+                    </div>
+                </div>
+
+                <div class="col240 fl-right" style="margin-right: 0%;">
+                    <ul class="profile-data">
+                        <li><h4>name</h4> <div>Afzal Najam</div></li>
+                        <li><h4>Age</h4> <div>24</div></li>
+                        <li><h4>E-mail</h4> <div>afzalnaj@gmail.com</div></li>
+                        <li><h4>Job status</h4> <div>NullPointerException</div></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="item-border">
+                <span>
+                    <span></span>
+                </span>
+            </div>
+
+        </section>
+
+        <section id="resume">
+            <h2 class="item-title">
+                <a href="resume.html">
+                    <span class="icon-profile"></span>
+                    <span class="title">My Resume</span>
+                    <span class="icon-arrow-up-right-3 arrow"></span>
+                </a>
+            </h2>
+
+        </section>
+
+        <section id="contact">
+            <h2 class="item-title">
+                <span class="icon-envelope"></span>
+                <span class="title">Website Feedback</span>
+            </h2>
+
+            <div class="item-content clearfix">
+                <div class="col405 fl-left">
+                    <form>
+                        <table>
+                          <tr>
+                            <td>Name<span>*</span></td>
+                            <td>Email<span>*</span></td>
+                          </tr>
+                          <tr>
+                            <td><input type="text" id="name"></input></td>
+                            <td><input type="text" id="email"></input></td>
+                          </tr>
+                          <tr>
+                              <td colspan="2">Rate this website</td>
+                          </tr>
+                          <tr>
+                              <td colspan="2">
+                                <select>
+                                  <option value="excellent">Excellent</option>
+                                  <option value="very-good">Very Good</option>
+                                  <option value="good">Good</option>
+                                  <option value="poor">Poor</option>
+                                </select>
+                              </td>
+                          </tr>
+                          <tr>
+                            <td colspan="2">Comments</td>
+                          </tr>
+                          <tr>
+                            <td colspan="2"><textarea></textarea></td>
+                          </tr>
+                          <tr>
+                            <td colspan="2">
+                                <input class="button" type="submit" value="Send Feedback">
+                            </td>
+                          </tr>
+                        </table>
+                    </form>
+                </div>
+            </div>
+
+            <div class="item-border">
+                <span>
+                    <span></span>
+                </span>
+            </div>
 
         </section>
 

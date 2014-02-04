@@ -1,0 +1,473 @@
+/*  reset  */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/*  elements  */
+body {
+  background: #F0F2F2;
+  width: 905px;
+  margin: auto;
+  position: relative;
+  font-family:"Open Sans";
+  padding-bottom:120px;
+  font-size: 13px;
+  line-height: 21px
+}
+
+header {
+  padding-top: 60px;
+  margin-bottom: 24px;
+}
+
+section {
+  background: #fff;
+  padding: 25px 0px;
+  margin-bottom: 3px;
+  position: relative;
+  border-radius: 16px;
+}
+
+section h2 {
+  height: 43px;
+  margin-left: 3px;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 3px;
+  padding-right: 40px;
+  z-index: 2;
+}
+
+a:hover {
+  color: #4496CC !important;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover > .title {
+  color: #4496CC !important;
+}
+
+ul {
+  list-style: none;
+}
+
+
+.clearfix:before, .clearfix:after {
+  content: "";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+/* For IE7 and lower */
+/*.clearfix {
+  *zoom: 1;
+}*/
+
+
+/*  classes  */
+.row {
+  max-width: 860px;
+}
+
+.row:before, .row:after {
+  display: table;
+  content: " ";
+}
+
+.row:after {
+  clear: both;
+}
+
+.name {
+  font-size: 32px;
+  line-height: 35px;
+  width: 50%;
+  float: left;
+  color: #000;
+  font-family: 'Patua One', cursive;
+}
+
+.links {
+  float: right;
+}
+
+.links ul li {
+  float: left;
+  width: 34px;
+  height: 34px;
+  cursor: pointer;
+  display: inline-block;
+  padding-left: 12px;
+}
+
+.links li a {
+  background-position: 0px -2px;
+}
+
+.links a {
+  background: none repeat scroll 0 0 #fafafa !important;
+  border: 2px solid #D4D7D9;
+  border-radius: 24px;
+  color: #434B52;
+  display: inline-block;
+  font-size: 16px !important;
+  padding: 8px !important;
+}
+
+.icon-twitter:hover {
+  background: #ffffff !important;
+  border: 2px solid #12AAF5 !important;
+  color: #12AAF5 !important;
+}
+
+.icon-googleplus:hover {
+  background: #ffffff !important;
+  border: 2px solid #DC4C30 !important;
+  color: #DC4C30 !important;
+}
+
+.icon-github:hover {
+  background: #ffffff !important;
+  border: 2px solid #171515 !important;
+  color: #171515 !important;
+}
+
+.icon-linkedin:hover {
+  background: #ffffff !important;
+  border: 2px solid #0875BB !important;
+  color: #0875BB !important;
+}
+
+.links a:hover {
+    background: #ffffff !important;
+    border: 2px solid #0082A5;
+    color: #0082A5;
+}
+
+.container {
+  padding-left: 43px;
+}
+
+.item-title .icon-envelope {
+  background-color: #53b7f9;
+  color: #FFF;
+  position: absolute;
+  height: 43px;
+  width: 43px;
+  top: 0px;
+  left: -46px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  font-size: 21px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 43px;
+  border-radius: 24px;
+}
+
+.item-title .icon-profile {
+  background-color: #53b7f9;
+  color: #FFF;
+  position: absolute;
+  height: 43px;
+  width: 43px;
+  top: 0px;
+  left: -46px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  font-size: 21px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 43px;
+  border-radius: 24px;
+}
+
+.item-title .icon-user {
+  background-color: #53b7f9;
+  color: #FFF;
+  position: absolute;
+  height: 43px;
+  width: 43px;
+  top: 0px;
+  left: -46px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  font-size: 21px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 43px;
+  border-radius: 24px;
+}
+
+.item-title .title {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 16px;
+  line-height: 16px;
+  font-family: 'Patua One', cursive;
+  background: #e7f2f9;
+  padding: 13px 17px 14px 13px;
+  color: #000;
+  border-radius: 24px;
+}
+
+.item-border {
+  position: absolute;
+  left: -43px;
+  top: 0px;
+  height: 100%;
+  width: 43px;
+  z-index: 1;
+  overflow: hidden;
+  border-radius: 24px;
+}
+
+.item-border > span {
+  background: none;
+  overflow: hidden;
+  top: 50px;
+  position: absolute;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.item-border > span > span {
+  background: #dce3e7;
+  bottom: 0px;
+  position: absolute;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.item-content {
+  padding-top: 17px !important;
+  position: relative;
+  padding: 22px 3.95% 0px;
+  z-index: 2;
+}
+
+.profile-img {
+  width: 35%;
+  margin-right: 4.5%;
+  margin-top: 5px;
+  float: left;
+}
+
+.profile-img img {
+  display: block;
+  max-width: 100%;
+}
+
+.profile-info {
+  width: 60.5%;
+  float: left;
+}
+
+.profile-info h3 {
+  font: 400 19px/24px "Open Sans";
+  margin-bottom: 15px !important;
+  letter-spacing: 0px
+}
+
+.profile-info p {
+  margin-bottom: 20px;
+}
+
+.col405 {
+  width: 63%;
+}
+
+.col240 {
+  width: 33%;
+}
+
+.fl-left {
+  float: left;
+}
+
+.fl-right {
+  float: right;
+}
+
+.profile-data {
+  margin-top: 1px;
+}
+
+.profile-data li {
+  margin-bottom: 11px;
+}
+
+.profile-data h4 {
+  border-left: 2px solid #5ca8db;
+  background-color: #53b7f9;
+  font: 11px/24px 'Montserrat', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #fff;
+  display: inline-block;
+  padding: 0px 5px;
+  margin-right: 12px;
+}
+
+.profile-data div {
+  display: inline-block;
+  line-height: 23px;
+}
+
+td {
+  color: #4c4c4c;
+  font: 600 13px/13px 'Open Sans', sans-serif;
+  display: inline-block;
+  padding-bottom: 10px;
+  padding-right: 24px;
+}
+
+td > span {
+  color: #ff4444;
+  display: inline-block;
+  margin-left: 2px;
+}
+
+td > span .icon-envelope {
+  left: 0px;
+}
+
+td > input {
+  color: #8e8e8e;
+  background-color: #ffffff;
+  border-color: #d0dde5;
+  display: block;
+  height: 25px;
+  width: 232px;
+  padding: 5px 3px;
+  font: 600 12px/12px 'Open Sans', sans-serif;
+  vertical-align: middle;
+  border: 2px solid #d0dde5;
+  transition: border-color ease-in-out 0.15s;
+  border-radius: 12px;
+}
+
+td > textarea {
+  color: #8e8e8e;
+  background-color: #ffffff;
+  border-color: #d0dde5;
+  display: block;
+  height: 72px;
+  width: 490px;
+  padding: 5px 3px;
+  font: 600 12px/12px 'Open Sans', sans-serif;
+  vertical-align: middle;
+  border: 2px solid #d0dde5;
+  transition: border-color ease-in-out 0.15s;
+  border-radius: 12px;
+}
+
+.button {
+  margin-top: 15px;
+  padding-left: 31px;
+  padding-right: 12px;
+  cursor: pointer;
+  border: none;
+  color: #fff;
+  background-color: #434b51;
+  padding: 0px 10px 0px 13px;
+  text-transform: uppercase;
+  height: 32px;
+  width: 125px;
+  font: 700 11px/32px 'Open Sans', sans-serif;
+  border-radius: 2px;
+  transition: background-color 0.4s ease 0s;
+  border-radius: 12px;
+}
+
+.arrow {
+  width: 21px;
+  color: #DEE0E0;
+  font-size: 20px;
+  position: absolute;
+  right: 4px;
+  top: 10px;
+}
+
+.download {
+  width: 21px;
+  color: #B0B0B0;
+  font-size: 20px;
+  position: absolute;
+  right: 4px;
+  top: 10px;
+}
+
+.download:hover {
+  color: #4496CC !important;
+}
+
+.resume-section {
+  margin-bottom: 40px;
+}
+
+.resume-section-title {
+  font: 13px/27px 'Montserrat', sans-serif;
+  background: #434b51;
+  color: #fff;
+  text-transform: uppercase;
+  padding-left: 10px;
+}
+
+.resume-body {
+  border-color: #ebebeb;
+  padding: 22px 0 19px 0;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.resume-date {
+  float: right;
+  line-height: 13px;
+  padding: 2px 0px 3px 0px;
+  border-color: #E3E3E3;
+  color: #8f8f8f;
+}
+
+.resume-title {
+  color: #4a4a4a;
+  font: 600 14px/14px "Open Sans";
+  margin-bottom: 9px;
+  margin-right: 90px;
+}
+
+.resume-subtitle {
+  color: #adadad;
+  clear: both;
+  margin-bottom: 4px;
+}
+
+.resume-content {
+  clear: both;
+}
+
+.resume-content ul {
+  list-style: disc;
+}
+
+.resume-content ul li {
+  color: #444444;
+}
+
+.resume-content ul li ul{
+  list-style: circle;
+  margin-left: 12px;
+}

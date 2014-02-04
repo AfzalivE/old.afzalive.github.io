@@ -1,0 +1,962 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"local",
+				"localNum"
+			],
+			[
+				"navb",
+				"navbar"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"fade",
+				"fadeOut	jQuery"
+			],
+			[
+				"array",
+				"array()"
+			],
+			[
+				"implo",
+				"implode()"
+			],
+			[
+				"getAll",
+				"getallheaders()"
+			],
+			[
+				"implode",
+				"implode()"
+			],
+			[
+				"explode",
+				"explode()"
+			],
+			[
+				"error",
+				"error_msg"
+			],
+			[
+				"eror",
+				"error_msg"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"MYSQL",
+				"MYSQLI_ASSOC"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"arra",
+				"array()"
+			],
+			[
+				"delete",
+				"delete()	dummy"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"read_exif",
+				"read_exif_data()"
+			],
+			[
+				"path",
+				"pathinfo()"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"exif_read",
+				"exif_read_data()"
+			],
+			[
+				"event",
+				"eventid"
+			],
+			[
+				"mim",
+				"mime_type"
+			],
+			[
+				"uploa",
+				"upload_dir"
+			],
+			[
+				"control",
+				"control_structure"
+			],
+			[
+				"eid",
+				"eid_exists"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 248.0,
+		"selected_items":
+		[
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"open in ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"view ",
+				"View In Browser"
+			],
+			[
+				"browser",
+				"View In Browser"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sid",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"tidy",
+				"Tidy PHP"
+			],
+			[
+				"ti",
+				"Tidy PHP"
+			],
+			[
+				"tid",
+				"Tidy PHP"
+			],
+			[
+				"snif",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Snippet: Throw Exception"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"tp",
+				"Tidy PHP"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ph",
+				"Tidy PHP"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Format: Php"
+			],
+			[
+				"form",
+				"Format: Php"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"def",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"Sublimerge: View Diff"
+			],
+			[
+				"for",
+				"Format: Php"
+			],
+			[
+				"nil",
+				"Themr: Nil"
+			],
+			[
+				"thm",
+				"Themr: Reload themes"
+			],
+			[
+				"the",
+				"Themr: Soda Dark"
+			],
+			[
+				"themr",
+				"Themr: ProKit"
+			],
+			[
+				"them",
+				"Themr: Reload themes"
+			],
+			[
+				"lig",
+				"Themr: Soda Light"
+			],
+			[
+				"soda",
+				"Themr: Soda Dark"
+			],
+			[
+				"tria",
+				"Trailing Spaces: Toggle Trailing Spaces"
+			],
+			[
+				"pre",
+				"Preferences: Settings - Default"
+			],
+			[
+				"sniff",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"side ba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"pref",
+				"Preferences: Settings - Default"
+			],
+			[
+				"refe",
+				"Preferences: Settings - User"
+			],
+			[
+				"del",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tog",
+				"Trailing Spaces: Toggle Trailing Spaces"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 117.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/urls.txt",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/css/style.css",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/resume.html",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/index.html",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/css/vector-fonts.css",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/demo/styles/main.css",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/demo/demo.html",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/demo/scripts/respond.min.js",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/css/font-awesome.css",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/fonts/icomoon.woff",
+		"/Users/afzal/Dev/web/self-site/index.html",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/style.css",
+		"/Users/afzal/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/afzalnaj@gmail.com.sparrowdb/Cache/INBOX/16711/2/Faisal Ahmed SE4F03 Assignment 1.txt",
+		"/Users/afzal/Library/Containers/com.sparrowmailapp.sparrow/Data/Library/Application Support/Sparrow/afzalnaj@gmail.com.sparrowdb/Cache/INBOX/16711/3/print.t",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/script.js",
+		"/Users/afzal/Dev/capstone/laravel/public/css/bootstrap.css",
+		"/Users/afzal/Dev/capstone/laravel/app/views/top-nav.blade.php",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/assign1/fcn.o",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/assign1/check-result.c",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/examples/mpi-basics/trap.c",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/examples/mpi-basics/iotrap.c",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/assign1/Makefile",
+		"/private/var/folders/cb/5056d37d0x92m4vkswwhjbw40000gn/T/com.littlebigmonster.iPack/traprule.c",
+		"/private/var/folders/cb/5056d37d0x92m4vkswwhjbw40000gn/T/com.littlebigmonster.iPack/func.c",
+		"/private/var/folders/cb/5056d37d0x92m4vkswwhjbw40000gn/T/com.littlebigmonster.iPack/redtrap.c",
+		"/private/var/folders/cb/5056d37d0x92m4vkswwhjbw40000gn/T/com.littlebigmonster.iPack/reduce.c",
+		"/private/var/folders/cb/5056d37d0x92m4vkswwhjbw40000gn/T/com.littlebigmonster.iPack/trap.c",
+		"/private/var/folders/cb/5056d37d0x92m4vkswwhjbw40000gn/T/com.littlebigmonster.iPack/getdata.c",
+		"/private/var/folders/cb/5056d37d0x92m4vkswwhjbw40000gn/T/com.littlebigmonster.iPack/iotrap.c",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/assign1/parallel-monte-carlo.c",
+		"/Users/afzal/Dev/web/self-site/yo-ember/app/index.html",
+		"/Users/afzal/Dev/web/self-site/Gruntfile.js",
+		"/private/var/folders/cb/5056d37d0x92m4vkswwhjbw40000gn/T/com.littlebigmonster.iPack/makefile",
+		"/Users/afzal/Dev/web/self-site/index.php",
+		"/Users/afzal/Dev/capstone/laravel/app/views/home.blade.php",
+		"/Volumes/Data HD/Downloads/jQuery-File-Upload-9.5.2/basic-plus.html",
+		"/Users/afzal/Dev/capstone/laravel/app/views/layout.blade.php",
+		"/Users/afzal/Dev/capstone/laravel/app/views/baselayout.blade.php",
+		"/Volumes/Data HD/Downloads/html5up-astral.zip Folder/js/init.js",
+		"/Volumes/Data HD/Downloads/html5up-astral.zip Folder/js/skel.min.js",
+		"/Volumes/Data HD/Downloads/jQuery-File-Upload-9.5.2/server/php/UploadHandler.php",
+		"/Users/afzal/Dev/capstone/laravel/app/views/oldhome.blade.php",
+		"/Volumes/Data HD/Downloads/jQuery-File-Upload-9.5.2/js/main.js",
+		"/Volumes/Data HD/Downloads/jQuery-File-Upload-9.5.2/server/php/index.php",
+		"/Users/afzal/Dev/capstone/laravel/app/storage/logs/log-apache2handler-2013-10-09.txt",
+		"/Users/afzal/Dev/capstone/laravel/app/views/user/login.blade.php",
+		"/Users/afzal/Dev/capstone/laravel/app/controllers/BaseController.php",
+		"/Users/afzal/Dev/capstone/laravel/vendor/nikic/php-parser/lib/PHPParser/BuilderAbstract.php",
+		"/Users/afzal/Dev/capstone/laravel/vendor/bin/boris",
+		"/Users/afzal/Dev/capstone/laravel/app/views/genomes/create.blade.php",
+		"/Users/afzal/Dev/capstone/laravel/composer.json",
+		"/Users/afzal/Dev/capstone/laravel/app/views/genomes/edit.blade.php",
+		"/Users/afzal/Dev/capstone/laravel/public/js/script.js",
+		"/Users/afzal/Dev/capstone/laravel/vendor/predis/predis/examples/SharedConfigurations.php",
+		"/Users/afzal/Dev/capstone/laravel/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/LogicalOr.php",
+		"/Users/afzal/Dev/capstone/laravel/app/start/local.php",
+		"/Users/afzal/Dev/capstone/laravel/public/css/bootflat/bootflat.css",
+		"/Users/afzal/Dev/capstone/laravel/public/css/style.css",
+		"/Users/afzal/Dev/capstone/laravel/vendor/mustache/mustache/bin/create_example.php",
+		"/Users/afzal/Dev/capstone/laravel/vendor/phpseclib/phpseclib/tests/code_sniffer_ruleset.xml",
+		"/Users/afzal/Dev/web/venuevue/app/routes.php",
+		"/Users/afzal/Dev/web/venuevue/public/js/script.js",
+		"/Users/afzal/Dev/web/venuevue/app/filters.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/login.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/EventsController.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/admin/AdminEventsController.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/users/edit.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/admin/AdminAuthController.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/nikic/php-parser/test/code/parser/expr/arrayDef.test",
+		"/Users/afzal/Dev/web/venuevue/app/config/app.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/LogicalOr.php",
+		"/Users/afzal/Dev/web/venuevue/app/start/local.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/users/create.blade.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/examples/SharedConfigurations.php",
+		"/Users/afzal/Dev/web/venuevue/server.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/usergroups/create.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/photos/create.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/events/create.blade.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/phpseclib/phpseclib/tests/code_sniffer_ruleset.xml",
+		"/Users/afzal/Dev/web/venuevue/composer.json",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/UserController.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/bin/create-phar",
+		"/Users/afzal/Dev/web/venuevue/vendor/mustache/mustache/bin/create_example.php",
+		"/Users/afzal/Dev/projects/old-windmobile/wind-mobile/src/com/afzal/windmobile/BaseActivity.java",
+		"/Users/afzal/Dev/capstone/laravel/public/tools/assemble.sh",
+		"/Users/afzal/Dev/projects/old-windmobile/.gitignore",
+		"/Users/afzal/Dev/projects/windmobile/code/src/com/afzaln/windmobile/backend/NetUtils.java",
+		"/Users/afzal/Dev/projects/windmobile/code/src/com/afzaln/windmobile/backend/HttpClientFactory.java",
+		"/Users/afzal/Dev/projects/windmobile/code/src/com/afzaln/windmobile/LoginActivity.java",
+		"/Users/afzal/Dev/projects/MIChat/gradle/wrapper/gradle-wrapper.properties",
+		"/Volumes/Data HD/Downloads/EdenaV3.131028/Makefile",
+		"/Volumes/Data HD/Dropbox/CS4ZP6/tools/EdenaV3.130110/src/Pairing.cpp",
+		"/Volumes/Data HD/Dropbox/CS4ZP6/data-sample/unassembled-genomes/negative-control",
+		"/Volumes/Data HD/Dropbox/CS4ZP6/data-sample/assembled-genomes/e-coli.fasta",
+		"/Volumes/Data HD/Dropbox/CS4ZP6/data-sample/csp/putative-lipoprotein.fasta",
+		"/Users/afzal/Dev/android/android-sdk-macosx/samples/android-19/legacy/SampleSyncAdapter/res/layout/login_activity.xml",
+		"/Users/afzal/Dev/web/venuevue/public/.htaccess",
+		"/Users/afzal/Dev/web/venuevue/app/models/User.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/baselayout.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/PhotosController.php",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/PhotosTableSeeder.php",
+		"/Users/afzal/Dev/web/venuevue/app/models/Photo.php",
+		"/Users/afzal/Dev/web/venuevue/phpunit.xml",
+		"/Users/afzal/Dev/web/venuevue/vendor/doctrine/common/lib/Doctrine/Common/EventSubscriber.php",
+		"/Users/afzal/Dev/web/venuevue/app/models/Event.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/doctrine/collections/lib/Doctrine/Common/Collections/Expr/ExpressionVisitor.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/events/edit.blade.php",
+		"/Users/afzal/Dev/capstone/laravel/public/.htaccess",
+		"/Users/afzal/Dev/web/venuevue/app/lib/MyConfide/MyConfide.php",
+		"/Users/afzal/Dev/web/venuevue/app/start/global.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/zizaco/entrust/src/Zizaco/Entrust/HasRole.php",
+		"/Users/afzal/Dev/web/venuevue/app/models/TestThis.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/UriSigner.php",
+		"/Users/afzal/Dev/web/venuevue/upgrade.md",
+		"/Users/afzal/Dev/web/venuevue/app/config/packages/lucadegasperi/oauth2-server-laravel/oauth2.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/league/oauth2-server/src/League/OAuth2/Server/Grant/Password.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/nikic/php-parser/lib/PHPParser/Node/Stmt/TraitUse.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/zizaco/entrust/README.md",
+		"/Users/afzal/Dev/web/venuevue/app/storage/logs/laravel.log",
+		"/Users/afzal/Dev/web/venuevue/vendor/zizaco/entrust/tests/HasRoleTest.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/lib/Predis/Command/HashScan.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/lib/Predis/Command/HashGetAll.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/hello.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/lucadegasperi/oauth2-server-laravel/src/LucaDegasperi/OAuth2Server/Proxies/AuthorizationServerProxy.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/league/oauth2-server/src/League/OAuth2/Server/Authorization.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/lucadegasperi/oauth2-server-laravel/tests/AuthorizationServerProxyTest.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/user/access_token.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/OAuthClientsTableSeeder.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open files>",
+			"",
+			"<open folders>",
+			"/Users/afzal/Dev/web/venuevue/app/views",
+			"<open folders>",
+			"/Users/afzal/Dev/web/laravel",
+			"/Users/afzal/Dev/android/Libraries/volley/tests",
+			"/Users/afzal/Dev/android/Libraries/volley/src/com/android/volley",
+			"/Users/afzal/Dev/android/Libraries/android-async-http",
+			"/Users/afzal/Dev/web/laravel",
+			"<open folders>",
+			"/Applications/MAMP/conf",
+			"/Users/afzal/Dev/web/restler/",
+			"/Users/afzal/Dev/web/restler/public/vv/explorer/",
+			"/Users/afzal/Dev/web/restler/vv/explorer/",
+			"/Users/afzal/Dev/web/explorer/",
+			"/Users/afzal/Dev/web/restler/",
+			"/Users/afzal/Dev/web/restler/vendor/Luracast/",
+			"/Users/afzal/Dev/web/restler/vendor/Luracast/explorer/dist",
+			"/Users/afzal/Dev/web/restler/",
+			"/Users/afzal/Dev/web/restler/public/examples"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"o ",
+			"• ",
+			"li",
+			"hidden",
+			"cursor",
+			"title",
+			"icon-",
+			"arrow-right",
+			"arrow",
+			"webkit",
+			"icon",
+			"class=",
+			"class=\"tg",
+			"icon",
+			"a",
+			"icon",
+			"ul",
+			"top:",
+			"_bg",
+			"normalTip ",
+			".row:before,.row:after {display: table; content: \" \";}",
+			"43px",
+			"twitter",
+			"><a",
+			"><",
+			"twitter",
+			"><",
+			">",
+			"\">",
+			"v\">",
+			"<li>",
+			"li",
+			"nav",
+			"remainder",
+			"localNum",
+			"total",
+			"localSum",
+			"total",
+			"localSum",
+			"total",
+			"rem",
+			"sum",
+			"num",
+			"[i]",
+			"OBJECTS2",
+			".o",
+			"numtasks",
+			"taskid",
+			"uploadbutton",
+			"success",
+			"contrOller",
+			"COntrOller",
+			"cOntrOller",
+			"array\\((.*)\\)\\)",
+			"array\\((.*)\\),",
+			"array(",
+			"->before('auth')",
+			"->before('guest')",
+			"before",
+			"PhotosCon",
+			"EventsController",
+			"Admin",
+			"uses",
+			"array",
+			"Traits",
+			"HasRole",
+			"ability",
+			" ability(",
+			"ability(",
+			"ability",
+			"getVerifyCredentialsCallback",
+			"completeFlow",
+			"getGrantType",
+			"issueAccesstoken",
+			"performacces",
+			"performAccessTokenFlow",
+			"username",
+			"Username",
+			"username",
+			"Username",
+			"username",
+			"Auth::",
+			"Auth",
+			"attempt",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"Role",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"UserGroups",
+			"usergroups",
+			"UserGroups",
+			"usergroups",
+			"UserGroups",
+			"usergroups",
+			"UserGRoups",
+			"Sentry",
+			"delete",
+			"$admin",
+			"admin",
+			"user",
+			"User"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"<li>",
+			"Controller",
+			"[\\1])",
+			"[\\1]),",
+			"[\\1],",
+			"UserRoles",
+			"",
+			"$user->\\1 = \\2;",
+			"$username = \\1;",
+			"$user = new User;",
+			"')",
+			"('",
+			"@extends('admin.layout')",
+			"MyConfide::user()",
+			"()",
+			"MyConfide::user()",
+			"Form",
+			"MHTML",
+			"MForm",
+			"url",
+			"email"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "self-site.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"vec",
+				"css/vector-fonts.css"
+			],
+			[
+				"sy",
+				"css/style.css"
+			],
+			[
+				"para",
+				"parallel-monte-carlo.c"
+			],
+			[
+				"check",
+				"check-result.c"
+			],
+			[
+				"fc",
+				"fcn.c"
+			],
+			[
+				"main",
+				"main.c"
+			],
+			[
+				"mon",
+				"monte-carlo.c"
+			],
+			[
+				"lay",
+				"app/views/layout.blade.php"
+			],
+			[
+				"base",
+				"app/views/baselayout.blade.php"
+			],
+			[
+				"create",
+				"app/views/genomes/create.blade.php"
+			],
+			[
+				"scr",
+				"public/js/script.js"
+			],
+			[
+				"logi",
+				"app/views/user/login.blade.php"
+			],
+			[
+				"admineve",
+				"app/controllers/admin/AdminEventsController.php"
+			],
+			[
+				"event",
+				"app/controllers/EventsController.php"
+			],
+			[
+				"login",
+				"app/views/admin/login.blade.php"
+			],
+			[
+				"script",
+				"public/js/script.js"
+			],
+			[
+				"filter",
+				"app/filters.php"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"user",
+				"app/controllers/UserController.php"
+			],
+			[
+				"photos",
+				"app/controllers/PhotosController.php"
+			],
+			[
+				"eventsc",
+				"app/controllers/EventsController.php"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"global",
+				"app/start/global.php"
+			],
+			[
+				"userco",
+				"app/controllers/UserController.php"
+			],
+			[
+				"hasrole",
+				"vendor/zizaco/entrust/src/Zizaco/Entrust/HasRole.php"
+			],
+			[
+				"filte",
+				"app/filters.php"
+			],
+			[
+				"adminuseredit.",
+				"app/views/admin/users/edit.blade.php"
+			],
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"myco",
+				"app/lib/MyConfide/MyConfide.php"
+			],
+			[
+				"mycon",
+				"app/lib/MyConfide/MyConfide.php"
+			],
+			[
+				"",
+				"composer.json"
+			],
+			[
+				"edit.blad",
+				"app/views/admin/events/edit.blade.php"
+			],
+			[
+				"index.blade",
+				"app/views/admin/events/index.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
