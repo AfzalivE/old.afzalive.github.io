@@ -15,7 +15,7 @@ body {
   margin: auto;
   position: relative;
   font-family:"Open Sans";
-  padding-bottom:120px;
+  padding-bottom:20px;
   font-size: 13px;
   line-height: 21px
 }
@@ -470,4 +470,11 @@ td > textarea {
 .resume-content ul li ul{
   list-style: circle;
   margin-left: 12px;
+}
+
+footer {
+  padding-top: 12px;
+  font-family:"Open Sans";
+  text-align: center;
+  color: #434B52;
 }
