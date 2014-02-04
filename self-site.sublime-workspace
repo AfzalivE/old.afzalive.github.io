@@ -167,6 +167,46 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4821,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resume.html",
+			"settings":
+			{
+				"buffer_size": 7625,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Data HD/Dropbox/Class/CS 4F03/assign2/julia/main.c",
+			"settings":
+			{
+				"buffer_size": 658,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Volumes/Data HD/Dropbox/Class/CS 4F03/assign2/julia/julia.c",
+			"settings":
+			{
+				"buffer_size": 1139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 8115,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -404,6 +444,9 @@
 	},
 	"file_history":
 	[
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/assign2/julia/julia.c",
+		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/q1q2.txt",
+		"/Users/afzal/Dev/web/self-site/resume.html",
 		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/urls.txt",
 		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/css/style.css",
 		"/Volumes/Data HD/Dropbox/Class/CS 4WW3/a1/resume.html",
@@ -528,10 +571,7 @@
 		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/lib/Predis/Command/HashGetAll.php",
 		"/Users/afzal/Dev/web/venuevue/app/views/hello.php",
 		"/Users/afzal/Dev/web/venuevue/vendor/lucadegasperi/oauth2-server-laravel/src/LucaDegasperi/OAuth2Server/Proxies/AuthorizationServerProxy.php",
-		"/Users/afzal/Dev/web/venuevue/vendor/league/oauth2-server/src/League/OAuth2/Server/Authorization.php",
-		"/Users/afzal/Dev/web/venuevue/vendor/lucadegasperi/oauth2-server-laravel/tests/AuthorizationServerProxyTest.php",
-		"/Users/afzal/Dev/web/venuevue/app/views/user/access_token.blade.php",
-		"/Users/afzal/Dev/web/venuevue/app/database/seeds/OAuthClientsTableSeeder.php"
+		"/Users/afzal/Dev/web/venuevue/vendor/league/oauth2-server/src/League/OAuth2/Server/Authorization.php"
 	],
 	"find":
 	{
@@ -571,6 +611,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"color:",
 			"o ",
 			"• ",
 			"li",
@@ -697,8 +738,7 @@
 			"delete",
 			"$admin",
 			"admin",
-			"user",
-			"User"
+			"user"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -737,8 +777,157 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4065,
+								4065
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1334.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resume.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7296,
+								7296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1361.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Volumes/Data HD/Dropbox/Class/CS 4F03/assign2/julia/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								616,
+								616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/Data HD/Dropbox/Class/CS 4F03/assign2/julia/julia.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 56.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5468,
+								5468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5333.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
 			]
 		}
 	],
