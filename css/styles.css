@@ -8,6 +8,10 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   vertical-align: baseline;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 /*  elements  */
 body {
   background: #F0F2F2;
@@ -17,7 +21,7 @@ body {
   font-family:"Open Sans";
   padding-bottom:20px;
   font-size: 13px;
-  line-height: 21px
+  line-height: 21px;
 }
 
 header {
@@ -501,7 +505,7 @@ footer {
   position: absolute;
   pointer-events: none;
   border-radius: 28px;
-  top: 20px;
+  top: 50px;
   opacity: 0;
   box-shadow: 0px 3px 8px rgba(0,0,0,0.1);
   z-index: 9999;
@@ -519,7 +523,7 @@ footer {
 
 .links ul li a:hover span {
   opacity: 0.9;
-  bottom: 50px;
+  top: 20px;
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
   -o-transform: scale(1);
