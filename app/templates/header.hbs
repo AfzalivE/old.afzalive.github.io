@@ -1,0 +1,14 @@
+<div class="container">
+    <!-- header stuff like nav -->
+        <header class="row">
+            <h1 class="name"><a href="index.html">Afzal Najam</a></h1>
+            <div class="links">
+                <ul>
+                    {{#each}}
+                        <li><a {{ bind-attr href="url" class="class" }} ><span>{{ name }}</span></a></li>
+                    {{/each}}
+                </ul>
+            </div>
+        </header>
+    </script>
+</div>

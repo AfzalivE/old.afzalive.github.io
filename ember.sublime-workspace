@@ -1,0 +1,913 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_key",
+				"array_key_exists()"
+			],
+			[
+				"confide",
+				"confide_user"
+			],
+			[
+				"ide",
+				"identity_columns"
+			],
+			[
+				"array_pus",
+				"array_push()"
+			],
+			[
+				"array",
+				"array()"
+			],
+			[
+				"implo",
+				"implode()"
+			],
+			[
+				"getAll",
+				"getallheaders()"
+			],
+			[
+				"implode",
+				"implode()"
+			],
+			[
+				"explode",
+				"explode()"
+			],
+			[
+				"error",
+				"error_msg"
+			],
+			[
+				"eror",
+				"error_msg"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"MYSQL",
+				"MYSQLI_ASSOC"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"arra",
+				"array()"
+			],
+			[
+				"delete",
+				"delete()	dummy"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"read_exif",
+				"read_exif_data()"
+			],
+			[
+				"path",
+				"pathinfo()"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"exif_read",
+				"exif_read_data()"
+			],
+			[
+				"event",
+				"eventid"
+			],
+			[
+				"mim",
+				"mime_type"
+			],
+			[
+				"uploa",
+				"upload_dir"
+			],
+			[
+				"control",
+				"control_structure"
+			],
+			[
+				"eid",
+				"eid_exists"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 32.0,
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sid",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"tidy",
+				"Tidy PHP"
+			],
+			[
+				"ti",
+				"Tidy PHP"
+			],
+			[
+				"tid",
+				"Tidy PHP"
+			],
+			[
+				"snif",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Snippet: Throw Exception"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"tp",
+				"Tidy PHP"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ph",
+				"Tidy PHP"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Format: Php"
+			],
+			[
+				"form",
+				"Format: Php"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"def",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"Sublimerge: View Diff"
+			],
+			[
+				"for",
+				"Format: Php"
+			],
+			[
+				"nil",
+				"Themr: Nil"
+			],
+			[
+				"thm",
+				"Themr: Reload themes"
+			],
+			[
+				"the",
+				"Themr: Soda Dark"
+			],
+			[
+				"themr",
+				"Themr: ProKit"
+			],
+			[
+				"them",
+				"Themr: Reload themes"
+			],
+			[
+				"lig",
+				"Themr: Soda Light"
+			],
+			[
+				"soda",
+				"Themr: Soda Dark"
+			],
+			[
+				"tria",
+				"Trailing Spaces: Toggle Trailing Spaces"
+			],
+			[
+				"pre",
+				"Preferences: Settings - Default"
+			],
+			[
+				"sniff",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"side ba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"pref",
+				"Preferences: Settings - Default"
+			],
+			[
+				"refe",
+				"Preferences: Settings - User"
+			],
+			[
+				"del",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tog",
+				"Trailing Spaces: Toggle Trailing Spaces"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 117.0,
+		"history":
+		[
+			"sys.version_info",
+			"import sys",
+			"version",
+			"-v",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/afzal/Dev/projects/Sublime2pdf/2pdf.py",
+		"/Users/afzal/Dev/web/confide/tests/ConfideTest.php",
+		"/Users/afzal/Dev/web/confide/src/Zizaco/Confide/Confide.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/auth/Illuminate/Auth/EloquentUserProvider.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/Pivot.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Model.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Builder.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Collection.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/MorphPivot.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/BelongsTo.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/MorphToMany.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/BelongsToMany.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/HasManyThrough.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/Relation.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/HasOne.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/MassAssignmentException.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/HasMany.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/MorphOne.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/MorphMany.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/ModelNotFoundException.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/database/Illuminate/Database/Eloquent/Relations/MorphOneOrMany.php",
+		"/Users/afzal/Dev/web/confide/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/EsiListener.php",
+		"/Users/afzal/Dev/web/confide/vendor/illuminate/encryption/Illuminate/Encryption/Encrypter.php",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/julia/Makefile",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/bel-a2/makefile",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/bel-a2/main.c",
+		"/Volumes/Data HD/Dropbox/Class/CS 4F03/bel-a2/parallel_julia.c",
+		"/Users/afzal/Dev/web/venuevue/app/models/User.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/admin/AdminUserGroupsController.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/usergroups/edit.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/photos/edit.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/events/edit.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/models/Event.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/usergroups/show.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/usergroups/index.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/usergroups/create.blade.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/laravel/framework/src/Illuminate/Database/Schema/Grammars/SqlServerGrammar.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/users/show.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/admin/AdminUsersController.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/admin/AdminEventsController.php",
+		"/Users/afzal/Dev/web/venuevue/app/config/app.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/users/index.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/events/show.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/events/index.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/events/index.blade.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/IndexedReader.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/doctrine/dbal/lib/Doctrine/DBAL/Event/SchemaColumnDefinitionEventArgs.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/README.md",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/EventsTableSeeder.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventSubscriberInterface.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/EventsController.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/Event.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/Index.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/photos/index.blade.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/swiftmailer/swiftmailer/test-suite/index.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/swiftmailer/swiftmailer/doc/index.rst",
+		"/Users/afzal/Dev/web/venuevue/vendor/league/oauth2-server/sql/index.html",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/users/create.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/users/edit.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/OAuthClientsTableSeeder.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/laravel/framework/src/Illuminate/Database/SeedServiceProvider.php",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/OAuthScopesTableSeeder.php",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/PermissionsTableSeeder.php",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/PhotosTableSeeder.php",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/UsersTableSeeder.php",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/RolesTableSeeder.php",
+		"/Users/afzal/Dev/web/venuevue/app/database/seeds/DatabaseSeeder.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/laravel/framework/src/Illuminate/Database/Seeder.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/doctrine/dbal/lib/Doctrine/DBAL/Exception/SyntaxErrorException.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/lib/Predis/ServerException.php",
+		"/Users/afzal/Dev/web/venuevue/public/css/style.css",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/UserController.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/user/login.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/login.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/config/packages/zizaco/confide/config.php",
+		"/Users/afzal/Dev/web/venuevue/composer.json",
+		"/Users/afzal/Dev/web/confide/composer.json",
+		"/Users/afzal/Dev/web/confide/composer.h",
+		"/Users/afzal/Dev/web/venuevue/app/views/baselayout.blade.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/barryvdh/laravel-ide-helper/src/config/config.php",
+		"/Users/afzal/Dev/web/venuevue/app/config/packages/barryvdh/laravel-ide-helper/config.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/swiftmailer/swiftmailer/test-suite/config.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/BaseController.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/yay_convenience.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/layout.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/layout.blade.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/psr/log/Psr/Log/LoggerAwareInterface.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/nesbot/carbon/tests/SubTest.php",
+		"/Users/afzal/Dev/web/venuevue/public/js/script.js",
+		"/Users/afzal/Dev/web/venuevue/vendor/zizaco/confide/src/lang/ca_ES/confide.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/zizaco/confide/src/lang/de/confide.php",
+		"/Users/afzal/Dev/web/venuevue/app/lib/MyConfide/MyConfide.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/zizaco/confide/tests/ConfideTest.php",
+		"/Users/afzal/Dev/web/venuevue/CONTRIBUTING.md",
+		"/Users/afzal/Dev/web/venuevue/app/filters.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/way/generators/tests/generators/stubs/dump/form-update.txt",
+		"/Users/afzal/Dev/web/venuevue/app/routes.php",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/admin/AdminAuthController.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/nikic/php-parser/test/code/parser/expr/arrayDef.test",
+		"/Users/afzal/Dev/web/venuevue/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/LogicalOr.php",
+		"/Users/afzal/Dev/web/venuevue/app/start/local.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/examples/SharedConfigurations.php",
+		"/Users/afzal/Dev/web/venuevue/server.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/photos/create.blade.php",
+		"/Users/afzal/Dev/web/venuevue/app/views/admin/events/create.blade.php",
+		"/Users/afzal/Dev/web/venuevue/vendor/phpseclib/phpseclib/tests/code_sniffer_ruleset.xml",
+		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/bin/create-phar",
+		"/Users/afzal/Dev/web/venuevue/vendor/mustache/mustache/bin/create_example.php",
+		"/Users/afzal/Dev/projects/old-windmobile/wind-mobile/src/com/afzal/windmobile/BaseActivity.java",
+		"/Users/afzal/Dev/capstone/laravel/public/tools/assemble.sh",
+		"/Users/afzal/Dev/projects/old-windmobile/.gitignore",
+		"/Users/afzal/Dev/projects/windmobile/code/src/com/afzaln/windmobile/backend/NetUtils.java",
+		"/Users/afzal/Dev/projects/windmobile/code/src/com/afzaln/windmobile/backend/HttpClientFactory.java",
+		"/Users/afzal/Dev/projects/windmobile/code/src/com/afzaln/windmobile/LoginActivity.java",
+		"/Users/afzal/Dev/projects/MIChat/gradle/wrapper/gradle-wrapper.properties",
+		"/Volumes/Data HD/Downloads/EdenaV3.131028/Makefile",
+		"/Volumes/Data HD/Dropbox/CS4ZP6/tools/EdenaV3.130110/src/Pairing.cpp",
+		"/Volumes/Data HD/Dropbox/CS4ZP6/data-sample/unassembled-genomes/negative-control",
+		"/Volumes/Data HD/Dropbox/CS4ZP6/data-sample/assembled-genomes/e-coli.fasta",
+		"/Volumes/Data HD/Dropbox/CS4ZP6/data-sample/csp/putative-lipoprotein.fasta",
+		"/Users/afzal/Dev/android/android-sdk-macosx/samples/android-19/legacy/SampleSyncAdapter/res/layout/login_activity.xml",
+		"/Users/afzal/Dev/web/venuevue/public/.htaccess",
+		"/Users/afzal/Dev/web/venuevue/app/controllers/PhotosController.php",
+		"/Users/afzal/Dev/web/venuevue/app/models/Photo.php",
+		"/Users/afzal/Dev/web/venuevue/phpunit.xml",
+		"/Users/afzal/Dev/web/venuevue/vendor/doctrine/common/lib/Doctrine/Common/EventSubscriber.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open files>",
+			"",
+			"<open folders>",
+			"/Users/afzal/Dev/web/venuevue/app/views",
+			"<open folders>",
+			"/Users/afzal/Dev/web/laravel",
+			"/Users/afzal/Dev/android/Libraries/volley/tests",
+			"/Users/afzal/Dev/android/Libraries/volley/src/com/android/volley",
+			"/Users/afzal/Dev/android/Libraries/android-async-http",
+			"/Users/afzal/Dev/web/laravel",
+			"<open folders>",
+			"/Applications/MAMP/conf",
+			"/Users/afzal/Dev/web/restler/",
+			"/Users/afzal/Dev/web/restler/public/vv/explorer/",
+			"/Users/afzal/Dev/web/restler/vv/explorer/",
+			"/Users/afzal/Dev/web/explorer/",
+			"/Users/afzal/Dev/web/restler/",
+			"/Users/afzal/Dev/web/restler/vendor/Luracast/",
+			"/Users/afzal/Dev/web/restler/vendor/Luracast/explorer/dist",
+			"/Users/afzal/Dev/web/restler/",
+			"/Users/afzal/Dev/web/restler/public/examples"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rst2pdf",
+			"clean",
+			"repo",
+			"function get(",
+			"get(",
+			"user(",
+			"user",
+			"repo",
+			"image.bmp s",
+			"ima",
+			"; ",
+			"printf",
+			"sentry",
+			"contrOller",
+			"sentry",
+			"contrOller",
+			"COntrOller",
+			"cOntrOller",
+			"array\\((.*)\\)\\)",
+			"array\\((.*)\\),",
+			"array(",
+			"->before('auth')",
+			"->before('guest')",
+			"before",
+			"PhotosCon",
+			"EventsController",
+			"Admin",
+			"uses",
+			"array",
+			"Traits",
+			"HasRole",
+			"ability",
+			" ability(",
+			"ability(",
+			"ability",
+			"getVerifyCredentialsCallback",
+			"completeFlow",
+			"getGrantType",
+			"issueAccesstoken",
+			"performacces",
+			"performAccessTokenFlow",
+			"username",
+			"Username",
+			"username",
+			"Username",
+			"username",
+			"Auth::",
+			"Auth",
+			"attempt",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"Role",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"UserGroups",
+			"usergroups",
+			"UserGroups",
+			"usergroups",
+			"UserGroups",
+			"usergroups",
+			"UserGRoups",
+			"Sentry",
+			"delete",
+			"$admin",
+			"admin",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"));",
+			"    '(.+)'\\s+=> (.+),",
+			"    '(.+)'    => (.+),",
+			"    'username'    => (.+),",
+			"Sentry::getUserProvider()->create(array(",
+			"Sentry",
+			"isConfirmed",
+			"' )",
+			"( '",
+			"->hasRole",
+			"roles",
+			"role",
+			"Sentry",
+			"@extends('admin._layouts.default')",
+			"isvalid(",
+			"isvalid",
+			"determineAccessToken",
+			"setRequest",
+			"'confide::",
+			"MyMyConfide::user()",
+			"Confide::user()",
+			"err_",
+			"()()",
+			"Confide::user()",
+			"^User",
+			"static",
+			"login",
+			"Sentry",
+			"Sentry::getUser()",
+			"Sentry",
+			"reachedThrottleLimit",
+			"usersController"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"Controller",
+			"[\\1])",
+			"[\\1]),",
+			"[\\1],",
+			"UserRoles",
+			"",
+			"$user->\\1 = \\2;",
+			"$username = \\1;",
+			"$user = new User;",
+			"')",
+			"('",
+			"@extends('admin.layout')",
+			"MyConfide::user()",
+			"()",
+			"MyConfide::user()",
+			"Form",
+			"MHTML",
+			"MForm",
+			"url",
+			"email"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ember.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"app/controllers/UserController.php"
+			],
+			[
+				"edit",
+				"app/views/admin/usergroups/edit.blade.php"
+			],
+			[
+				"usergr",
+				"app/views/admin/usergroups/show.blade.php"
+			],
+			[
+				"adminusershow",
+				"app/views/admin/users/show.blade.php"
+			],
+			[
+				"adminuser",
+				"app/views/admin/usergroups/show.blade.php"
+			],
+			[
+				"admineventsshow",
+				"app/views/admin/events/show.blade.php"
+			],
+			[
+				"admineventsedit",
+				"app/views/admin/events/edit.blade.php"
+			],
+			[
+				"admineventindex",
+				"app/views/admin/events/index.blade.php"
+			],
+			[
+				"admine",
+				"app/controllers/admin/AdminEventsController.php"
+			],
+			[
+				"event",
+				"app/models/Event.php"
+			],
+			[
+				"index",
+				"app/views/admin/usergroups/index.blade.php"
+			],
+			[
+				"seeder",
+				"app/database/seeds/OAuthClientsTableSeeder.php"
+			],
+			[
+				"userc",
+				"app/controllers/UserController.php"
+			],
+			[
+				"login",
+				"app/views/user/login.blade.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"config",
+				"app/config/packages/zizaco/confide/config.php"
+			],
+			[
+				"usercon",
+				"app/controllers/UserController.php"
+			],
+			[
+				"base",
+				"app/views/baselayout.blade.php"
+			],
+			[
+				"styl",
+				"public/css/style.css"
+			],
+			[
+				"confide",
+				"vendor/zizaco/confide/src/lang/ca_ES/confide.php"
+			],
+			[
+				"myco",
+				"app/lib/MyConfide/MyConfide.php"
+			],
+			[
+				"filter",
+				"app/filters.php"
+			],
+			[
+				"admineve",
+				"app/controllers/admin/AdminEventsController.php"
+			],
+			[
+				"script",
+				"public/js/script.js"
+			],
+			[
+				"create",
+				"app/views/admin/users/create.blade.php"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"photos",
+				"app/controllers/PhotosController.php"
+			],
+			[
+				"eventsc",
+				"app/controllers/EventsController.php"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"global",
+				"app/start/global.php"
+			],
+			[
+				"userco",
+				"app/controllers/UserController.php"
+			],
+			[
+				"hasrole",
+				"vendor/zizaco/entrust/src/Zizaco/Entrust/HasRole.php"
+			],
+			[
+				"filte",
+				"app/filters.php"
+			],
+			[
+				"adminuseredit.",
+				"app/views/admin/users/edit.blade.php"
+			],
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"mycon",
+				"app/lib/MyConfide/MyConfide.php"
+			],
+			[
+				"",
+				"composer.json"
+			],
+			[
+				"edit.blad",
+				"app/views/admin/events/edit.blade.php"
+			],
+			[
+				"index.blade",
+				"app/views/admin/events/index.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
