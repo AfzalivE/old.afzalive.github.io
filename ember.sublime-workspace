@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Ember",
+				"EmberApp"
+			],
+			[
 				"array_key",
 				"array_key_exists()"
 			],
@@ -119,20 +123,28 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/templates/application.hbs",
+			"settings":
+			{
+				"buffer_size": 1645,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 32.0,
+		"height": 375.0,
 		"selected_items":
 		[
 			[
-				"side",
-				"View: Toggle Side Bar"
-			],
-			[
 				"insta",
 				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
 			],
 			[
 				"remove",
@@ -336,6 +348,32 @@
 	},
 	"file_history":
 	[
+		"/Users/afzal/Dev/web/ember/app/scripts/router.js",
+		"/Users/afzal/Dev/web/quickstart-code-sample/style.css",
+		"/Users/afzal/Dev/web/quickstart-code-sample/app/index.html",
+		"/Users/afzal/Dev/web/quickstart-code-sample/index.html",
+		"/Users/afzal/Dev/web/quickstart-code-sample/app/templates/application.hbs",
+		"/Users/afzal/Dev/web/quickstart-code-sample/app/styles/style.css",
+		"/Users/afzal/Dev/web/quickstart-code-sample/js/router.js",
+		"/Users/afzal/Dev/web/quickstart-code-sample/app/scripts/app.js",
+		"/Users/afzal/Dev/web/quickstart-code-sample/js/app.js",
+		"/Users/afzal/Dev/web/ember/app/templates/application.hbs",
+		"/Users/afzal/Dev/web/ember/app/scripts/models/link.js",
+		"/Users/afzal/Dev/web/ember/app/scripts/routes/application_route.js",
+		"/Users/afzal/Dev/web/ember/app/templates/footer.hbs",
+		"/Users/afzal/Dev/web/ember/app/templates/header.hbs",
+		"/Users/afzal/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/afzal/Dev/web/ember/node_modules/grunt-neuter/test/expected/respects_code_order_between_requires",
+		"/Users/afzal/Dev/web/ember/app/scripts/routes/links_route.js",
+		"/Users/afzal/Dev/web/ember/app/scripts/store.js",
+		"/Users/afzal/Dev/web/ember/app/scripts/app.js",
+		"/Users/afzal/Dev/web/ember/node_modules/grunt-gh-pages/node_modules/q-io/spec/http/basic-spec.js",
+		"/Users/afzal/Dev/web/ember/app/bower_components/handlebars/bower.json",
+		"/Users/afzal/Dev/web/ember/app/bower_components/handlebars/handlebars.js",
+		"/Users/afzal/Dev/web/ember/.tmp/index.html",
+		"/Users/afzal/Dev/web/ember/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/mout/lang/isNull.js",
+		"/Users/afzal/Dev/web/ember/node_modules/grunt-neuter/test/expected/accepts_file_patterns",
+		"/Users/afzal/Dev/web/ember/node_modules/grunt-contrib-clean/AUTHORS",
 		"/Users/afzal/Dev/projects/Sublime2pdf/2pdf.py",
 		"/Users/afzal/Dev/web/confide/tests/ConfideTest.php",
 		"/Users/afzal/Dev/web/confide/src/Zizaco/Confide/Confide.php",
@@ -437,33 +475,7 @@
 		"/Users/afzal/Dev/web/venuevue/app/routes.php",
 		"/Users/afzal/Dev/web/venuevue/app/controllers/admin/AdminAuthController.php",
 		"/Users/afzal/Dev/web/venuevue/vendor/nikic/php-parser/test/code/parser/expr/arrayDef.test",
-		"/Users/afzal/Dev/web/venuevue/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/LogicalOr.php",
-		"/Users/afzal/Dev/web/venuevue/app/start/local.php",
-		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/examples/SharedConfigurations.php",
-		"/Users/afzal/Dev/web/venuevue/server.php",
-		"/Users/afzal/Dev/web/venuevue/app/views/admin/photos/create.blade.php",
-		"/Users/afzal/Dev/web/venuevue/app/views/admin/events/create.blade.php",
-		"/Users/afzal/Dev/web/venuevue/vendor/phpseclib/phpseclib/tests/code_sniffer_ruleset.xml",
-		"/Users/afzal/Dev/web/venuevue/vendor/predis/predis/bin/create-phar",
-		"/Users/afzal/Dev/web/venuevue/vendor/mustache/mustache/bin/create_example.php",
-		"/Users/afzal/Dev/projects/old-windmobile/wind-mobile/src/com/afzal/windmobile/BaseActivity.java",
-		"/Users/afzal/Dev/capstone/laravel/public/tools/assemble.sh",
-		"/Users/afzal/Dev/projects/old-windmobile/.gitignore",
-		"/Users/afzal/Dev/projects/windmobile/code/src/com/afzaln/windmobile/backend/NetUtils.java",
-		"/Users/afzal/Dev/projects/windmobile/code/src/com/afzaln/windmobile/backend/HttpClientFactory.java",
-		"/Users/afzal/Dev/projects/windmobile/code/src/com/afzaln/windmobile/LoginActivity.java",
-		"/Users/afzal/Dev/projects/MIChat/gradle/wrapper/gradle-wrapper.properties",
-		"/Volumes/Data HD/Downloads/EdenaV3.131028/Makefile",
-		"/Volumes/Data HD/Dropbox/CS4ZP6/tools/EdenaV3.130110/src/Pairing.cpp",
-		"/Volumes/Data HD/Dropbox/CS4ZP6/data-sample/unassembled-genomes/negative-control",
-		"/Volumes/Data HD/Dropbox/CS4ZP6/data-sample/assembled-genomes/e-coli.fasta",
-		"/Volumes/Data HD/Dropbox/CS4ZP6/data-sample/csp/putative-lipoprotein.fasta",
-		"/Users/afzal/Dev/android/android-sdk-macosx/samples/android-19/legacy/SampleSyncAdapter/res/layout/login_activity.xml",
-		"/Users/afzal/Dev/web/venuevue/public/.htaccess",
-		"/Users/afzal/Dev/web/venuevue/app/controllers/PhotosController.php",
-		"/Users/afzal/Dev/web/venuevue/app/models/Photo.php",
-		"/Users/afzal/Dev/web/venuevue/phpunit.xml",
-		"/Users/afzal/Dev/web/venuevue/vendor/doctrine/common/lib/Doctrine/Common/EventSubscriber.php"
+		"/Users/afzal/Dev/web/venuevue/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/LogicalOr.php"
 	],
 	"find":
 	{
@@ -503,6 +515,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\"id\"    : ",
+			"class",
+			"Link",
+			"App",
+			"emberapp",
+			"id",
 			"rst2pdf",
 			"clean",
 			"repo",
@@ -624,13 +642,7 @@
 			"()()",
 			"Confide::user()",
 			"^User",
-			"static",
-			"login",
-			"Sentry",
-			"Sentry::getUser()",
-			"Sentry",
-			"reachedThrottleLimit",
-			"usersController"
+			"static"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -668,8 +680,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/templates/application.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/Handlebars.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -719,6 +762,22 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"route",
+				"app/scripts/router.js"
+			],
+			[
+				"hbs",
+				"app/templates/application.hbs"
+			],
+			[
+				"inde",
+				".tmp/index.html"
+			],
+			[
+				"app",
+				"app/templates/application.hbs"
+			],
 			[
 				"user",
 				"app/controllers/UserController.php"
@@ -858,10 +917,6 @@
 			[
 				"adminuseredit.",
 				"app/views/admin/users/edit.blade.php"
-			],
-			[
-				"app",
-				"app/config/app.php"
 			],
 			[
 				"mycon",
