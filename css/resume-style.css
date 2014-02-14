@@ -14,30 +14,83 @@ html {
 
 /*  elements  */
 body {
-  width: 905px;
+  width: 904px;
   margin: auto;
   position: relative;
   font-family:"Open Sans";
   padding-bottom:20px;
   font-size: 13px;
-  line-height: 21px;
+  line-height: 20px;
+  margin-top: 32px;
 }
 
 header {
-    /*width: 63%;*/
-    /*float: left;*/
+    margin-right: 16%;
+    margin-left: 16%;
+    float: left;
+    height: 56px;
+    margin-top: 42px;
+}
+
+.v-div {
+     border-left: 1px solid #4F9CE2;
+     height: 136px;
+     position: absolute;
+     right: 380px;
+     opacity: 0.5;
+}
+
+.h-div {
+     width: 100%;
+     height: 1px;
+     border: 0;
+     color: #4F9CE2;
+     background-color: #4F9CE2;
+     opacity: 0.5;
+}
+
+.title {
+    color: #4F9CE2;
+}
+
+header > div {
+    font-family: "Arvo";
+    color: #4F9CE2;
+}
+
+header > .name {
+    font-size: 42px;
+}
+
+header > .profession {
+    font-size: 16px;
+    margin-top: 12px;
+    text-align: right;
 }
 
 .contact-details {
-    /*float: right;*/
+    float: right;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    text-align: left;
+    margin-right: 80px;
+}
+
+.contact-details > .title {
+    font-family: "Arvo";
+    font-size: 16px;
 }
 
 .contact-details > ul {
-
+    list-style: none;
 }
 
 .contact-details > ul > li {
+    margin-bottom: 4px;
+}
 
+.contact-details > ul > li > span {
+    margin-right: 12px;
 }
 
 .contact-details > ul > li > a {
@@ -48,6 +101,22 @@ header {
 
 }
 
+.contact-details .address {
+
+}
+
+.contact-details .github {
+    display: none;
+}
+
+.contact-details .linkedin {
+    display: none;
+}
+
+.contact-details .twitter {
+    display: none;
+}
+
 .skills {
 
 }
@@ -55,7 +124,7 @@ header {
 /* Experience class */
 
 .experience {
-
+    display: none;
 }
 
 .experience > .title {
@@ -89,7 +158,7 @@ header {
 /* My projects class */
 
 .my-projects {
-
+    display: none;
 }
 
 .my-projects > .title {
@@ -119,7 +188,7 @@ header {
 /* Education class */
 
 .education {
-
+    display: none;
 }
 
 .education > .title {
@@ -153,7 +222,7 @@ header {
 /* Extra-curriculars class */
 
 .extra-curriculars {
-
+    display: none;
 }
 
 .extra-curriculars > .title {
