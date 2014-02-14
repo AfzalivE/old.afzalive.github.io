@@ -14,7 +14,6 @@ html {
 
 /*  elements  */
 body {
-  background: #F0F2F2;
   width: 905px;
   margin: auto;
   position: relative;
@@ -49,7 +48,17 @@ header {
 
 }
 
+.skills {
+
+}
+
+/* Experience class */
+
 .experience {
+
+}
+
+.experience > .title {
 
 }
 
@@ -57,11 +66,15 @@ header {
 
 }
 
-.experience > .item > .title {
+.experience > .item > .position {
 
 }
 
 .experience > .item > .company {
+
+}
+
+.experience > .item > .description {
 
 }
 
@@ -70,5 +83,103 @@ header {
 }
 
 .experience > .item > .responsibilities {
+
+}
+
+/* My projects class */
+
+.my-projects {
+
+}
+
+.my-projects > .title {
+
+}
+
+.my-projects > .item {
+
+}
+
+.my-projects > .item > .name {
+
+}
+
+.my-projects > .item > .description {
+
+}
+
+.my-projects > .item > .status {
+
+}
+
+.my-projects > .item > .responsibilities {
+
+}
+
+/* Education class */
+
+.education {
+
+}
+
+.education > .title {
+
+}
+
+.education > .item {
+
+}
+
+.education > .item > .area-of-study {
+
+}
+
+.education > .item > .company {
+
+}
+
+.education > .item > .description {
+
+}
+
+.education > .item > .time {
+
+}
+
+.education > .item > .responsibilities {
+
+}
+
+/* Extra-curriculars class */
+
+.extra-curriculars {
+
+}
+
+.extra-curriculars > .title {
+
+}
+
+.extra-curriculars > .item {
+
+}
+
+.extra-curriculars > .item > .position {
+
+}
+
+.extra-curriculars > .item > .company {
+
+}
+
+.extra-curriculars > .item > .description {
+
+}
+
+.extra-curriculars > .item > .time {
+
+}
+
+.extra-curriculars > .item > .responsibilities {
 
 }
