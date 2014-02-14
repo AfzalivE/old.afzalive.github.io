@@ -17,7 +17,8 @@ body {
   width: 904px;
   margin: auto;
   position: relative;
-  font-family:"Open Sans";
+  font-family: "Arvo";
+  color: #444444;
   padding-bottom:20px;
   font-size: 13px;
   line-height: 20px;
@@ -25,6 +26,9 @@ body {
 }
 
 header {
+    height: 138px;
+}
+.page-title {
     margin-right: 16%;
     margin-left: 16%;
     float: left;
@@ -34,9 +38,11 @@ header {
 
 .v-div {
      border-left: 1px solid #4F9CE2;
-     height: 136px;
-     position: absolute;
+     height: 100%;
+     float: right;
+     position: relative;
      right: 380px;
+     top: 0px;
      opacity: 0.5;
 }
 
@@ -49,20 +55,24 @@ header {
      opacity: 0.5;
 }
 
-.title {
+section > .title {
+    font-size: 16px;
     color: #4F9CE2;
 }
 
-header > div {
-    font-family: "Arvo";
+section > div {
+    line-height: 22px;
+}
+
+.page-title > div {
     color: #4F9CE2;
 }
 
-header > .name {
+.page-title > .name {
     font-size: 42px;
 }
 
-header > .profession {
+.page-title > .profession {
     font-size: 16px;
     margin-top: 12px;
     text-align: right;
@@ -77,8 +87,7 @@ header > .profession {
 }
 
 .contact-details > .title {
-    font-family: "Arvo";
-    font-size: 16px;
+
 }
 
 .contact-details > ul {
@@ -86,7 +95,7 @@ header > .profession {
 }
 
 .contact-details > ul > li {
-    margin-bottom: 4px;
+    margin-top: 4px;
 }
 
 .contact-details > ul > li > span {
@@ -124,7 +133,7 @@ header > .profession {
 /* Experience class */
 
 .experience {
-    display: none;
+    margin-top: 18px;
 }
 
 .experience > .title {
@@ -132,7 +141,16 @@ header > .profession {
 }
 
 .experience > .item {
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
 
+.experience > .item > div {
+    margin-bottom: 2px;
+}
+
+.experience > .item > .position:before {
+    content: "Job Position: ";
 }
 
 .experience > .item > .position {
@@ -143,16 +161,18 @@ header > .profession {
 
 }
 
-.experience > .item > .description {
-
-}
-
 .experience > .item > .time {
 
 }
 
-.experience > .item > .responsibilities {
+.experience > .item > .description {
 
+}
+
+.experience > .item > .responsibilities {
+    list-style-position: inside;
+    text-indent: 16px;
+    display: none;
 }
 
 /* My projects class */
