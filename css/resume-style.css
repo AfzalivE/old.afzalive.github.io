@@ -11,3 +11,64 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 html {
   overflow-y: scroll;
 }
+
+/*  elements  */
+body {
+  background: #F0F2F2;
+  width: 905px;
+  margin: auto;
+  position: relative;
+  font-family:"Open Sans";
+  padding-bottom:20px;
+  font-size: 13px;
+  line-height: 21px;
+}
+
+header {
+    /*width: 63%;*/
+    /*float: left;*/
+}
+
+.contact-details {
+    /*float: right;*/
+}
+
+.contact-details > ul {
+
+}
+
+.contact-details > ul > li {
+
+}
+
+.contact-details > ul > li > a {
+
+}
+
+.contact-details > ul > li > a:hover {
+
+}
+
+.experience {
+
+}
+
+.experience > .item {
+
+}
+
+.experience > .item > .title {
+
+}
+
+.experience > .item > .company {
+
+}
+
+.experience > .item > .time {
+
+}
+
+.experience > .item > .responsibilities {
+
+}
