@@ -10,4 +10,4 @@ Another goal of this project is to break free of writing resumes in Word and spe
 
 Part II
 -------
-Decouple content from HTML. ThenThis would probably be possible using a templating engine. Maybe I will combine this with the Ember.js stuff in this part.
+Decouple content from HTML. This would probably be possible using a templating engine. Maybe I will combine this with the Ember.js stuff in this part and even end up writing a backend for all this.
